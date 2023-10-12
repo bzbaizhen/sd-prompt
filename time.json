@@ -1,0 +1,5 @@
+{
+    "Night|夜晚": "(night, dark outside, artificial light:1.4)",
+    "Daytime|白天": "(Daytime, natural light:1.4)",
+    "Sunset|黄昏": "(Sunset, natural light, Artificial light, sun ray:1.4)"
+}
